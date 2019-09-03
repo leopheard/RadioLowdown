@@ -14,12 +14,12 @@
     <platform>all</platform>
     <language>en_us</language>
     <summary lang="en">Jim Hightower Radio Lowdown</summary>
-    <description lang="en">America's most popular populist, writes the Lowdown newsletter and commentaries. He is a best-selling author, public speaker, and political sparkplug who learned from his daddy, W. F. Hightower, that "Everybody does better when everybody does better." Twice elected Texas Agriculture Commissioner (which put him square in the crosshairs of corporate agribusiness), he has long chronicled the ongoing democratic struggles by America's ordinary people against rule by its plutocratic elites.</description>
+    <description lang="en">America's most popular populist, writes the Lowdown newsletter and commentaries. He is a best-selling author, public speaker. Twice elected Texas Agriculture Commissioner (which put him square in the crosshairs of corporate agribusiness), he has long chronicled the ongoing democratic struggles by America's ordinary people against rule by its plutocratic elites.</description>
     <license>The MIT License (MIT)</license>
     <forum></forum>
     <email>leopheard@gmail.com</email>
     <source>https://github.com/leopheard/RadioLowdown</source>
-    <website>http://www.hightowerlowdown.org/</website>
+    <website>http://www.hightowerlowdown.org</website>
         	<assets>
 			<icon>resources/media/icon.jpg</icon>
 			<fanart>resources/media/fanart.jpg</fanart>
@@ -27,5 +27,4 @@
 			<screenshot>resources/media/icon.jpg</screenshot>
 			<screenshot>resources/media/icon.jpg</screenshot>
 		</assets>
-  </extension>
-</addon>
+</extension></addon>
